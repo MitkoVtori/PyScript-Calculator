@@ -1,0 +1,5 @@
+PyScript is almost like normal Python code. There are only a few things you should do like importing JS library & working with some
+functions like Element and lots of unseen by everyone dot functions to build the project.
+I'm sure that, by looking at the code you'll understand at least 90% of it.
+
+# To call your PyScript you must use <py-script style="python_code_file_name.py"></py-script>
